@@ -1,0 +1,18 @@
+@import url(components/banner.css);
+@import url(components/hover.css);
+@import url(components/magin-zone.css);
+@import url(components/footer.css);
+@import url(components/card-grid.css);
+@import url(components/grid-button.css);
+
+body {
+    margin: 0 auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+.back {
+    background: #0F222D;
+}
+.banback{
+    background: #435058;
+}

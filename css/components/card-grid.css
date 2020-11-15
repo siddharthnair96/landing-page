@@ -1,0 +1,29 @@
+.grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-gap: 10px;
+}
+.card-vert > img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-vert h1 {
+    font-size: 1.5rem;
+}
+
+.card-vert p {
+    font-size: 1rem;
+}
+
+/*
+    Padding around the text within the card
+*/
+.card-vert > .text {
+    padding: 0 20px 20px;
+}
+.card-vert {
+    background-color: #435058;
+    margin: 50px;
+    font-family: 'Gruppo', cursive;
+}

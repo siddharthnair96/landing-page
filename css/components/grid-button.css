@@ -1,0 +1,16 @@
+button 
+{
+    cursor: pointer;
+    background: #435058;
+    border: 0;
+    font-size: 1rem;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    font-family: 'Gruppo', cursive;   
+}
+button:hover 
+{
+    background-color: #848C8E;
+
+}
